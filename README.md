@@ -38,7 +38,6 @@ The analysis was conducted in several stages:
 <h2>Program walk-through:</h2>
 <img src="https://i.imgur.com/FzltZIy.png">
 
+<img src="https://i.imgur.com/2iHurjy.gif">
 
-<img src="http://ecopas.altervista.org/ezgif.com-video-to-gif-converter.gif">
-
-<img src="http://ecopas.altervista.org/Video3.gif">
+<img src="https://i.imgur.com/XI0FW8H.gif">
